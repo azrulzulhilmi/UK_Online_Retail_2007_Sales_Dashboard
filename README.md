@@ -25,7 +25,7 @@ Dataset Source:
   - `Date`: Transaction date
   - `CustomerNo`, `Country`: Customer metadata
 
-The dataset contains UK online retail transaction records for 2010–2011, focused on gifts, homewares, and novelty items.
+The dataset contains UK online retail transaction records for 2007, focused on gifts, homewares, and novelty items.
 
 ---
 
