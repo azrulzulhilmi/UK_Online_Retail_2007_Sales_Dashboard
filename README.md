@@ -4,6 +4,11 @@
 
 This project presents an interactive **Shiny dashboard** that performs **Market Basket Analysis** using **Association Rule Mining (ARM)** on an e-commerce dataset from a UK-based online novelty store. The goal is to identify product combinations frequently purchased together and extract actionable business insights for strategic decision-making.
 
+## 🖥️ Dashboard Preview
+
+![Dashboard Screenshot](images/UK_Online_Retail_2007_Sales_Dashboard.jpeg)
+
+
 Dataset Source:  
 [Kaggle - E-commerce Business Transaction](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
 
@@ -93,7 +98,6 @@ Steps included:
 ## 👨‍💻 Authors
 
 - Azrul Zulhilmi bin Ahmad Rosli (P153478)
-- Mahani Binti Mohamad Zaki (P147234)
 
 ---
 
