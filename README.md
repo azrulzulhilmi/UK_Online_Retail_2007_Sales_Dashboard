@@ -6,7 +6,7 @@ This project presents an interactive **Shiny dashboard** that performs **Market 
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard](images/UK_Online_Retail_2007_Sales_Dashboard.png)
+![Dashboard](https://github.com/azrulzulhilmi/UK_Online_Retail_2007_Sales_Dashboard/blob/main/images/UK_Online_Retail_2017_Sales_Dashboard.png)
 
 
 Dataset Source:  
